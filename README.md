@@ -1,4 +1,4 @@
-# Bike Store Data Analysis and Visualization
+# Peakline Bike Co Sales Analysis and Visualization
 
 ## Project Scope
 Analize the data from the first 2 years of operation for Peakline Bike Co. to uncover sales trends.  Use those findings to create an interactive dashboard that breaks down the data into easily comparable cahrts and tables.
