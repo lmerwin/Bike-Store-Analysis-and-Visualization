@@ -8,6 +8,8 @@ Analize the data from the first 2 years of operation for Peakline Bike Co. to un
 
 ## Process
 ### Step 1: Use SQL to perform an exploratory data analysis.
+The data was obtained from Kaggle as a relational database.
+
 The main categories of business questions I wanted to explore were:
   - sales trends
   - shipping trends
