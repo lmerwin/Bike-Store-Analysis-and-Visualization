@@ -3,11 +3,11 @@
 ## Project Scope
 Analize the data from the first 2 years of operation for Peakline Bike Co. to uncover sales trends.  Use those findings to create an interactive dashboard that breaks down the data into easily comparable cahrts and tables.
 
-  ###Secondary Scope
+  ### Secondary Scope
   Improve skills in SQL and Excel, and explore the capabilities of Excel.
 
 ## Process
-###Step 1: Use SQL to perform an exploratory data analysis.
+### Step 1: Use SQL to perform an exploratory data analysis.
 The main categories of business questions I wanted to explore were:
   - sales trends
   - shipping trends
@@ -44,7 +44,10 @@ Apply filters when necesaary to improve the readability of each section.
    
 4. Linked the data from the working page to the dashboard page.  Used formulas and formatting to acheive the desired look.
 
-### Dashboard Functionality
+## Takeaway
+Excel is by no means the best program for designing dashboards, but I gained valuble knowledge about it's capabilities particularly when it comes to formatting.
+
+## Dashboard Functionality
 To control the dashboard, use the splicer buttons to filter the data.
 - to select multiple buttons, click and drag to select buttons next to eachother OR hold ctrl and click to select buttons that are not next to eachother.
     - dashboard will update once you let go of the mouse and/or the cntl button.
