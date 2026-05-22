@@ -55,6 +55,6 @@ The "stores", "categories", and "brands" slicers control all of the tables and c
 Slicer options will go away if they are not available under a certain filter, the will reappear when more buttons are selected.
 When all the buttons are highlighted, you are seeing the overall company sales data for all months, all brands, all categories, and all stores.
 
-** The download file shows only the dashboard sheet, the working sheet and data source can be "unhidden" if needed
+*The download file shows only the dashboard sheet, you can "unhide" the working sheet and cource data if needed*
 
 
