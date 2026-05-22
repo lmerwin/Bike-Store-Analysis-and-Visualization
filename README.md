@@ -20,7 +20,7 @@ The original data covered years 2016 to 2018, but the 2018 data exhibited some s
 To proceed, I chose to assume that the data was recorded during 2018 making that year incomplete. Therefore my analysis covers 2016 and 2017 being the two complete years of data available.
 
 ### Step 2: Prepair the data for visualizaiton
-Since this data did nto need additional cleaning, I simply used SQL to join the necessary columns into a tabular format to import into Excel. I chose to focus my dashboard on sales from 2016 and 2017.
+Since this data did not need additional cleaning, I simply used SQL to join the necessary columns into a tabular format to import into Excel. I chose to focus my dashboard on sales from 2016 and 2017.
 
 ### Step 3: Visualize the data
 1. Aggregated the data using pivot tables focusing on the general groupings:
